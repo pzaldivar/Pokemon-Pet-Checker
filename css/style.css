@@ -28,7 +28,7 @@ body {
   font-family: 'Kdam Thmor Pro', sans-serif;
   margin-left: 10vw;
   margin-right: 10vw;
-  background-image: url("file:///Users/paolazaldivar/Documents/pokepet-checker/img/pikachu_bg.jpeg");
+  background-image: url("pikachu_bg.jpeg");
   background-size: cover;
   text-shadow: 2px 2px 0px white, -2px -2px 0px white, 2px -2px 0px white, -2px 2px 0px white;
 }
